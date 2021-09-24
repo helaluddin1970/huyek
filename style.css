@@ -90,6 +90,7 @@ h1{
 }
 
 .third-banner{
+    margin-top: 100px;
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     height: 500px;
